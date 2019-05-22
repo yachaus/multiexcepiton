@@ -1,0 +1,24 @@
+{
+  "name": "yachaus/multiexception",
+  "description": "MultiException.",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "keywords": [
+    "chaus",
+    "yachaus",
+    "multiexception",
+    "MultiException"
+  ],
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "authors": [
+    {
+      "name": "Nikita Chaus",
+      "email": "nikita.chaus68@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": { "": "src/" }
+  }
+}
